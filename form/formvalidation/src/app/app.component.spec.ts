@@ -9,6 +9,8 @@ describe('AppComponent', () => {
         RouterModule.forRoot([])
       ],
       declarations: [
+        
+// asbjhdgbwjhgbjogb
         AppComponent
       ],
     }).compileComponents();
